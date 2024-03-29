@@ -17,7 +17,7 @@ RXNetworking is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'RXPhotoLoader'
+pod 'RXPhotoLoader', git: "git@github.com:manhmeu1211/Rx_PhotoLoader.git", :inhibit_warnings => false
 ```
 
 ## Author
