@@ -26,4 +26,4 @@ Manh Luong, luongmanhdev@gmail.com
 
 ## License
 
-RX_Networking is available under the MIT license. See the LICENSE file for more info.
+Rx_PhotoLoader is available under the MIT license. See the LICENSE file for more info.
